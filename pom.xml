@@ -30,7 +30,7 @@
     <properties>
         <spring-security-jwt.version>1.0.10.RELEASE</spring-security-jwt.version>
         <spring-security-oauth2.version>2.3.6.RELEASE</spring-security-oauth2.version>
-        <springfox.version>2.9.2</springfox.version>
+        <springfox.version>2.10.0</springfox.version>
         <mockito.version>1.10.19</mockito.version>
     </properties>
     <dependencies>
